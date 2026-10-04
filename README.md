@@ -1,5 +1,13 @@
 # Flask Inventory Management System
 
+## Requirements
+To install all the required dependencies run
+
+```sh
+pipenv shell && pip install -r requirements.txt
+```
+
+
 ## CLI Commands
 
 Start the Flask API in one terminal:
